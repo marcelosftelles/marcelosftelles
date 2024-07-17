@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu Sou o Marcelo Telles</h1>
+<h1 align="center">Olá 👋, me chamo Marcelo Telles</h1>
 <h3 align="center">Apaixonado pelo mundo da tecnologia e análise de dados.</h3>
 
 - 📚 Atualmente estou aprendendo **Python e OutSystems**
