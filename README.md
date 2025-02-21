@@ -1,16 +1,15 @@
-<h1 align="center">Olá 👋, me chamo Marcelo Telles</h1>
-<h3 align="center">Apaixonado pelo mundo da tecnologia e análise de dados.</h3>
+<h1 align="center">Olá 👋, me chamo Marcelo </h1>
+<h3 align="center">Cursando Engenharia da computação.</h3>
 
-- 📚 Atualmente estou aprendendo **Python e OutSystems**
+- 📚 Atualmente estou aprendendo **Python e Sistemas Embarcados**
 
-- 💬 Me pergunte sobre **SQL, Google Data Studio, PowerBI, Excel e Python**
+- 💬 Me pergunte sobre **SQL, Google Data Studio, PowerBI, Excel, Python, e C**
 
 - 📫 Você me acha através do e-mail **marcelosftelles@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/marcelosftelles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marcelosftelles" height="30" width="40" /></a>
-<a href="https://instagram.com/@tellescinese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tellescinese" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
