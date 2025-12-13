@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Marcelo </h1>
 <h3 align="center">Cursando Engenharia da computação.</h3>
 
-- 📚 Atualmente estou aprendendo **Python e Sistemas Embarcados**
+- 📚 Atualmente estou aprendendo **Cypress e Engenharia de Qualidade**
 
-- 💬 Me pergunte sobre **SQL, Google Data Studio, PowerBI, Excel, Python, e C**
+- 💬 Me pergunte sobre **SQL, DevOPS, Cypress, JavaScript, Python, e C**
 
 - 📫 Você me acha através do e-mail **marcelosftelles@gmail.com**
 
