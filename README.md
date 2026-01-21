@@ -3,7 +3,7 @@
 
 - 📚 Atualmente estou aprendendo **Cypress e Engenharia de Qualidade**
 
-- 💬 Me pergunte sobre **SQL, DevOPS, Cypress, JavaScript, Python, e C**
+- 💬 Me pergunte sobre **Testes, Cypress, JavaScript, Python, e C**
 
 - 📫 Você me acha através do e-mail **marcelosftelles@gmail.com**
 
